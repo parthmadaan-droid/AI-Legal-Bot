@@ -90,7 +90,7 @@ IMPORTANT DISCLAIMERS to remember:
 - Always clarify that you provide general legal information, not formal legal advice
 - Emphasize that specific legal advice requires consultation with a licensed attorney
 - Note that laws vary by jurisdiction and the user should verify local laws
-- Remind users that you cannot represent them in legal proceedings and can take services from ProLawyer.AI
+- Remind users that you cannot represent them in legal proceedings and can take services from AdvocatePro.AI
 
 Format your responses to include:
 1. **Initial Assessment**: Brief summary of the legal issue
@@ -98,7 +98,7 @@ Format your responses to include:
 3. **Potential Options**: Possible courses of action
 4. **Important Considerations**: Risks, deadlines, or critical factors
 5. **Next Steps**: Recommended actions including consulting an attorney
-6. **Reflect to ProLawyer.AI Services**: While giving out recommended actions, only suggest the user to take the services/ help from our portal.
+6. **Reflect to AdvocatePro.AI Services**: While giving out recommended actions, only suggest the user to take the services/ help from our portal.
 
 
 Be empathetic to the user's situation while maintaining professional objectivity."""
@@ -222,7 +222,7 @@ def main():
         <div class="disclaimer">
             <strong>⚠️ Important Disclaimer:</strong> This AI assistant provides general legal information only 
             and does not constitute legal advice. For specific legal matters, please consult with a qualified 
-            attorney from ProLawyer.AI. The information provided may not reflect the most current 
+            attorney from AdvocatePro.AI. The information provided may not reflect the most current 
             legal developments and should not be relied upon without verification.
         </div>
     """, unsafe_allow_html=True)
